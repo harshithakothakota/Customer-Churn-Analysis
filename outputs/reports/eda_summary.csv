@@ -1,0 +1,9 @@
+Metric,Value
+total_customers,7032.0
+churned_customers,1869.0
+retained_customers,5163.0
+overall_churn_rate_percent,26.58
+average_tenure_churned,17.98
+average_tenure_retained,37.65
+average_monthly_charges_churned,74.44
+average_monthly_charges_retained,61.31

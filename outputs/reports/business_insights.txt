@@ -1,0 +1,31 @@
+CUSTOMER CHURN ANALYSIS: BUSINESS INSIGHTS
+================================================
+
+DATASET OVERVIEW
+Customers analyzed: 7,032
+Customers churned: 1,869
+Customers retained: 5,163
+Overall churn rate: 26.58%
+
+KEY FINDINGS
+1. Churned customers averaged 17.98 months of tenure, compared with 37.65 months for retained customers.
+2. Churned customers paid an average of $74.44 per month, compared with $61.31 for retained customers.
+3. Retained customers had 19.67 more months of average tenure.
+4. Churned customers paid $13.13 more per month on average.
+
+RECOMMENDATIONS
+1. Investigate early-tenure churn and test onboarding or customer-support improvements.
+2. Review pricing, service usage, and perceived value among higher-charge customers.
+3. Investigate high-churn contract and payment segments before designing targeted interventions.
+4. Measure retention campaign outcomes against a suitable comparison group before scaling.
+
+HIGHEST-CHURN CUSTOMER SEGMENTS
+- PaymentMethod: Electronic check | Customers: 2,365 | Churn rate: 45.29%
+- Contract: Month-to-month | Customers: 3,875 | Churn rate: 42.71%
+- InternetService: Fiber optic | Customers: 3,096 | Churn rate: 41.89%
+- OnlineSecurity: No | Customers: 3,497 | Churn rate: 41.78%
+- SeniorCitizen: 1 | Customers: 1,142 | Churn rate: 41.68%
+
+LIMITATIONS
+These are observational findings and do not establish causation. Churn rates describe historical customers; they are not predictions of future churn.
+Records with missing essential numeric values were excluded during cleaning.
